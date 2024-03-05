@@ -60,14 +60,14 @@ O comando te avisará, para cada ISO, se o hash bate ou não.
 
 | **Nome**               | **Email**                | **Horários** |
 |------------------------|--------------------------|--------------|
-|                        |                          |              |
+| Tarcísio L. Oliveira   | tarcisio.oliveira@usp.br | 14h-19h      |
 
 
 ## Pendrives
 
 | **Tamanho** | **Descrição**                 | **Dono**       | **ISOs**             |
 |-------------|-------------------------------|----------------|----------------------|
-|             |                               |                |                      |
+| 16 GB       | Sandisk Vermelho e Preto      | Tarcísio       | Ubuntu, Fedora, Mint |
 
 
 ## Flyer
